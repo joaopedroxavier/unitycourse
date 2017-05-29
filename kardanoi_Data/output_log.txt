@@ -1,0 +1,37 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 M265 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2035 MB
+    Driver:   15.200.1045.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.549 seconds
+Platform assembly: C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\João Pedro Xavier\Documents\PrettyMuchAsArkanoid\kardanoi_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.107908 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.959219 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 0.242907 ms (FindLiveObjects: 0.032501 ms CreateObjectMapping: 0.026514 ms MarkObjects: 0.165502 ms  DeleteObjects: 0.017533 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2738 -> priority: 1 
